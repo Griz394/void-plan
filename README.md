@@ -4,4 +4,4 @@
 
 Проект создан на .NET Framework 4.8 , используются БД MySQL
 
-За подробной информацией на сайт: sites.google.com/view/void-plan
+Также Вы можете посетить официальный сайт проекта https://griz394.github.io/voidplan
